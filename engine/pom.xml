@@ -33,7 +33,7 @@
         <lwjgl.natives>natives-linux</lwjgl.natives>
       </properties>
     </profile>
-    <profile>
+    <!-- <profile>
       <id>lwjgl-natives-macos-aarch64</id>
       <activation>
         <os>
@@ -56,7 +56,7 @@
       <properties>
         <lwjgl.natives>natives-windows</lwjgl.natives>
       </properties>
-    </profile>
+    </profile> -->
   </profiles>
 
   <dependencyManagement>
